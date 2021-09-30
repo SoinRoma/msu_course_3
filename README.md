@@ -7,4 +7,4 @@
 ## Используемые технологии
 ![C++](https://img.shields.io/badge/-C++-black?style=flat-square&logo=c++5&logoColor=c++)
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c5&logoColor=c)
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python5&logoColor=python)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
